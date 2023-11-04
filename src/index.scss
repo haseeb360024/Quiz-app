@@ -1,0 +1,52 @@
+#root{
+    background-color:#72ff72;
+    height: 100vh;
+}
+
+h1 {
+    cursor: pointer;
+}
+
+.card {
+    cursor: pointer;
+    color: #ffffff;
+    box-shadow: 5px 5px 15px 5px #bbbbbb;
+
+    &--bg-green {
+        background-color: #ffdd00 !important;
+        border-color: #949899 !important;
+    }
+
+    &--bg-yellow {
+        background-color: #ff9100 !important;
+        border-color: #fbb14e !important;
+    }
+
+    &--bg-red {
+        background-color: #ff4a21 !important;
+        border-color: #ff3406 !important;
+    }
+}
+
+.list-group {
+    &:not(.disabled) {
+        .list-group-item:hover {
+            background: #1c6ea4;
+            color: #ffffff;
+        }
+    }
+
+    .list-group-item {
+        cursor: pointer;
+
+        &.correct {
+            background-color: #68d388;
+            color: #ffffff;
+        }
+
+        &.incorrect {
+            background-color: #ff0028;
+            color: #ffffff;
+        }
+    }
+}

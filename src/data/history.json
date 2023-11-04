@@ -1,0 +1,62 @@
+[
+    {
+        "difficulty": "easy",
+        "question": "With which among the following sports, Ian Thorpe is related to?",
+        "correct": "Swimming",
+        "incorrect": ["Racing", "Boxing", "Athletics"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which Football Club was designated as the FIFA Club of the Century in 2000?",
+        "correct": "Real Madrid",
+        "incorrect": ["Liverpool", "Arsenal", "Manchester United"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which Indian athlete is known as the “Queen of Indian Track and Field” or “Golden Girl”?",
+        "correct": "P T Usha",
+        "incorrect": ["Kamaljeet Sandhu", "Sunita Rani", "Krishna Punia"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "How many team members are there in each team of an ice hockey game?",
+        "correct": "6",
+        "incorrect": ["8", "10", "12"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "What is the national sport of India?",
+        "correct": "Hockey",
+        "incorrect": ["Football", "Cricket", "Badminton"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "2014 FIFA World Cup will be held in?",
+        "correct": "Brazil",
+        "incorrect": ["Canada", "Japan", "london"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "The First Asian Games was held in which country?",
+        "correct": "India",
+        "incorrect": ["japan", "Bhutan", "Nepal"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "How many players play in a Kabaddi team",
+        "correct": "7",
+        "incorrect": ["8", "12", "4"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which is the national sport of Japan?",
+        "correct": "Judo",
+        "incorrect": ["Football", "Baseball", "Chess"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "2018 FIFA World Cup would be held in?",
+        "correct": "Russia",
+        "incorrect": ["Qatar", "Brazil", "South africa"]
+    }
+]

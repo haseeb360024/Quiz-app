@@ -1,0 +1,66 @@
+[
+    {
+        "difficulty": "easy",
+        "question": "Most reliable car company in the world ?",
+        "correct": "Toyota",
+        "incorrect": ["Hyundai", "Kia", "Suzuki"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which is India's first car?",
+        "correct": "Hindustan Ambassador",
+        "incorrect": ["Premier padmini", "Maruti 800", "Zen"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "What is the best-selling car of all time??",
+        "correct": "Toyota Corolla",
+        "incorrect": ["Suzuki swift", "Baleno", "Innova"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "What was the name of the first car sent into space?",
+        "correct": "The Tesla Roadster",
+        "incorrect": [
+            "Mercedes Benz",
+            "BMW",
+            "Volvo"
+        ]
+    },
+    {
+        "difficulty": "medium",
+        "question": "What is the smallest car ever made?",
+        "correct": "Peel p50",
+        "incorrect": ["Renault Kwid", "Honda Brio", "Tata Nano"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "How many rings does the Audi logo have?",
+        "correct": "4",
+        "incorrect": ["3", "5", "6"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "Which country is the largest car producer in the world? ",
+        "correct": "China",
+        "incorrect": ["Japan", "India", "Portuguese"]
+    },
+    {
+        "difficulty": "medium",
+        "question": " A bull is part of the logo for which Italian luxury car company??",
+        "correct": "Lamborghini",
+        "incorrect": ["Peugeot", "porshe", "ferrari"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which car company first introduced seat belts as a standard feature?",
+        "correct": "Volvo",
+        "incorrect": ["BMW", "Tesla", "Toyota"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which company owns Rolls Royce?",
+        "correct": "BMW",
+        "incorrect": ["Audi", "Mercedes", "Range Rover"]
+    }
+]

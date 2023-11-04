@@ -1,0 +1,66 @@
+[
+    {
+        "difficulty": "easy",
+        "question": "Who painted the Mona Lisa?",
+        "correct": "Leonardo da Vinci",
+        "incorrect": ["Vincent van Gogh", "Pablo Picasso", "Michelangelo"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "What is the largest ocean in the world?",
+        "correct": "Pacific Ocean",
+        "incorrect": ["Atlantic Ocean", " Indian Ocean", "Artic Ocean"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "What is the currency of Japan?",
+        "correct": "Yen",
+        "incorrect": ["Euro", "Dollar", "Rupee"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "Which planet is known as the Red Planet?",
+        "correct": "Mars",
+        "incorrect": ["Venus", "Jupiter", "Saturn"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "What is the tallest mountain in the world?",
+        "correct": "Mount Everest",
+        "incorrect": ["Mount Kilimanjaro", "Mount McKinley", "Mount Fuji"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "What is the official language of Brazil?",
+        "correct": "Portuguese",
+        "incorrect": ["Spanish", "French", "English"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "Who invented the telephone?",
+        "correct": "Alexander Graham Bell",
+        "incorrect": ["Thomas edison", "Nikola Tesla", "Isaac Newton"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "What is the largest organ in the human body?",
+        "correct": "Skin",
+        "incorrect": [
+            "Heart",
+            "Liver",
+            "Brain"
+        ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "Which continent is the most populous?",
+        "correct": "Asia",
+        "incorrect": ["Africa", "Europe", "North America"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "Who is the author of the Harry Potter book series?",
+        "correct": "J.K. Rowling",
+        "incorrect": ["George R.R. Martin", "J.R.R. Tolkien", "Dan Brown"]
+    }
+]
